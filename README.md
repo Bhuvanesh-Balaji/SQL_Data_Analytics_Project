@@ -1,12 +1,12 @@
 # Data_Analysis_SQL
 A collection of SQL data analytics projects demonstrating data cleaning, data analysis, joins, subqueries, CTEs, window functions, and business insights.
 
-##Project 1: E-Commerce Customer & Sales Analysis
+## Project 1: E-Commerce Customer & Sales Analysis
 
-##Objective
+## Objective
 Analyze e-commerce customer, product, and sales data to understand sales performance, customer purchasing behavior, and product performance.
 
-##Key Analysis
+## Key Analysis
 Overall sales performance
 Total orders and revenue
 Top-performing customers
@@ -16,7 +16,7 @@ Customer purchasing behavior
 Sales trends
 Customer and product ranking
 
-##Business Insights
+## Business Insights
 The analysis helps identify:
 High-value customers
 Best-performing products
