@@ -1,4 +1,4 @@
-# Data_Analysis_SQL
+# SQL_Data_Analytics_Project
 A collection of SQL data analytics projects demonstrating data cleaning, data analysis, joins, subqueries, CTEs, window functions, and business insights.
 
 ## Project 1: E-Commerce Customer & Sales Analysis
